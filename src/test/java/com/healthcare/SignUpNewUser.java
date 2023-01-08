@@ -27,7 +27,7 @@ public class SignUpNewUser {
 		driver.findElement(By.id("firstName")).sendKeys("Kush");
 		
 		driver.findElement(By.id("lastName")).sendKeys("Nik");
-		driver.findElement(By.id("email")).sendKeys("KSNNN@gmail.com");
+		driver.findElement(By.id("email")).sendKeys("KSNNN2@gmail.com");
 		driver.findElement(By.id("contactNumber")).sendKeys("9874563210");
 		driver.findElement(By.id("password")).sendKeys("12345");
 		driver.findElement(By.id("confirmPassword")).sendKeys("12345");
