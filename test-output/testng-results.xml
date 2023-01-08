@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-08T12:31:22 IST" name="Default suite" finished-at="2023-01-08T12:32:34 IST" duration-ms="72019">
+    <groups>
+    </groups>
+    <test started-at="2023-01-08T12:31:22 IST" name="Default test" finished-at="2023-01-08T12:32:34 IST" duration-ms="72019">
+      <class name="com.testrunner.TestRunner">
+        <test-method signature="PlaceOrderByUser()[pri:0, instance:com.testrunner.TestRunner@273e7444]" started-at="2023-01-08T12:31:22 IST" name="PlaceOrderByUser" finished-at="2023-01-08T12:31:48 IST" duration-ms="26068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceOrderByUser -->
+        <test-method signature="SignUpNewSupplierMethod()[pri:0, instance:com.testrunner.TestRunner@273e7444]" started-at="2023-01-08T12:31:48 IST" name="SignUpNewSupplierMethod" finished-at="2023-01-08T12:32:08 IST" duration-ms="19958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpNewSupplierMethod -->
+        <test-method signature="SignUpNewUsermethod()[pri:0, instance:com.testrunner.TestRunner@273e7444]" started-at="2023-01-08T12:32:08 IST" name="SignUpNewUsermethod" finished-at="2023-01-08T12:32:34 IST" duration-ms="25757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpNewUsermethod -->
+      </class> <!-- com.testrunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
